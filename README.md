@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Alwi Zen
 
 🚀 Tech enthusiast | 💻 Laravel & Filament Developer | 🔧 IoT tinkerer  
-🌱 Currently building smart kitchen & logistics systems for **RBJ Corp**
 
 ---
 
